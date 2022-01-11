@@ -13,9 +13,9 @@ class imagePage extends StatefulWidget {
 
 class _imagePageState extends State<imagePage> {
   List<String> nature = [
-    "https://source.unsplash.com/all/?nature",
-    "https://source.unsplash.com/all/?natural",
-    "https://source.unsplash.com/all/?scenes"
+    "http://m.gettywallpapers.com/wp-content/uploads/2020/04/Nature-Wallpaper-709x1536.jpg",
+    "http://m.gettywallpapers.com/wp-content/uploads/2020/04/Nature-PC-Wallpaper-1536x864.jpg",
+    "http://m.gettywallpapers.com/wp-content/uploads/2020/04/Wallpaper-Nature-1536x864.jpg"
   ];
   List<String> scifi = [
     "https://source.unsplash.com/all/?sci-fi",
